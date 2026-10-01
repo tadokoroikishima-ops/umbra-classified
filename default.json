@@ -1,0 +1,4 @@
+{"posts":[
+{"id":1,"img":"images/plate1.jpg","text":"Sample plate","c":24,"m":3,"v":1680,"s":[6,3,0,2,0,0]},
+{"id":2,"img":"images/plate2.jpg","text":"Another sample plate","c":41,"m":7,"v":1950,"s":[2,0,4,0,5,1]}
+]}
